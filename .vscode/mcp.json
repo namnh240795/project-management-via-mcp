@@ -1,0 +1,24 @@
+{
+  "servers": {
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    },
+    "github-issues": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/issues"
+    },
+    "github-labels": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/labels"
+    },
+    "github-projects": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/projects"
+    },
+    "github-repos": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/repos"
+    }
+  }
+}
