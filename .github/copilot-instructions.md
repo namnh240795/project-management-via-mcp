@@ -4,14 +4,20 @@
 
 This is a project management system that uses Model Context Protocol (MCP) to integrate with GitHub services including issues, labels, projects, and repositories.
 
-## Working with Wiki
+## Working with Wiki and SRS
 
-When the user mentions "wiki" or "documentation":
+When the user mentions "wiki", "documentation", or "SRS" (Software Requirements Specification):
 
-- Always reference and work with files in the `/wiki` directory of this repository
-- The wiki contains the Software Requirements Specification (SRS) and project documentation
-- When updating or creating wiki content, maintain the existing structure and format
+- Always reference and work with files in the `/project-management-via-mcp.wiki` directory of this repository
+- This folder contains the Software Requirements Specification (SRS) and project documentation
+- When updating or creating wiki/SRS content, maintain the existing structure and format
 - Wiki files are in Markdown format and should follow documentation best practices
+- The wiki folder is a local clone of the GitHub wiki repository and can be managed directly:
+  1. Make changes directly in `/project-management-via-mcp.wiki`
+  2. Commit and push changes from this directory to update the online wiki
+  3. Pull changes to keep the local wiki content synchronized
+
+**Note:** The `/project-management-via-mcp.wiki` folder is the authoritative source for SRS and documentation. All documentation updates should be made here.
 
 ## Working with GitHub Projects
 
