@@ -1,0 +1,34 @@
+{
+  "project": {
+    "name": "sample",
+    "description": "A sample project to demonstrate project management via MCP",
+    "version": "1.0.0",
+    "created": "2025-10-15",
+    "status": "active"
+  },
+  "repository": {
+    "owner": "namnh240795",
+    "name": "project-management-via-mcp",
+    "url": "https://github.com/namnh240795/project-management-via-mcp"
+  },
+  "github_project": {
+    "linked": false,
+    "project_number": null,
+    "board_url": null,
+    "note": "To be linked after GitHub Project creation"
+  },
+  "team": {
+    "lead": "namnh240795",
+    "members": ["namnh240795"],
+    "collaborators": []
+  },
+  "workflow": {
+    "states": ["backlog", "todo", "in-progress", "review", "done"],
+    "labels": ["enhancement", "bug", "documentation", "good first issue"]
+  },
+  "settings": {
+    "auto_assign": true,
+    "require_reviews": false,
+    "default_branch": "main"
+  }
+}
