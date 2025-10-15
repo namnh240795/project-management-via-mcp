@@ -10,25 +10,24 @@ This repository contains **project-management-via-mcp**, a comprehensive project
 - **Owner**: namnh240795 (Nam Nguyễn)
 - **Primary Branch**: main
 - **GitHub Project**: Project #6 (https://github.com/users/namnh240795/projects/6)
-- **Project Status**: Active development, Phase 1 in progress
 
 ## 📋 Current Project Fields
 
 The following fields are configured in GitHub Project #6:
 
-1. **Title**
-2. **Assignees**
-3. **Status** (options: Todo, In Progress, Done)
-4. **Labels**
-5. **Linked pull requests**
-6. **Milestone**
-7. **Repository**
-8. **Reviewers**
-9. **Parent issue**
-10. **Sub-issues progress**
-11. **Start Date**
-12. **Target Date**
-13. **Iteration**
+- Title
+- Assignees
+- Status (options: Todo, In Progress, Dev Done, Ready On SIT, Testing On SIT, Ready To UAT, Ready On UAT, Testing On UAT, Ready To Production, Ready On Production)
+- Labels
+- Linked pull requests
+- Milestone
+- Repository
+- Reviewers
+- Parent issue
+- Sub-issues progress
+- Start Date (date)
+- Target Date (date)
+- Type (options: Phase, Epic, User Story, Backend Task, Frontend Task, Bug)
 
 These fields are used for comprehensive project and workflow management.
 
