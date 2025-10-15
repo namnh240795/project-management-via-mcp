@@ -12,10 +12,12 @@
     "url": "https://github.com/namnh240795/project-management-via-mcp"
   },
   "github_project": {
-    "linked": false,
-    "project_number": null,
-    "board_url": null,
-    "note": "To be linked after GitHub Project creation"
+    "linked": true,
+    "project_number": 6,
+    "board_url": "https://github.com/users/namnh240795/projects/6",
+    "project_id": "18252338",
+    "linked_at": "2025-10-15T15:03:06Z",
+    "note": "Successfully linked to GitHub Project #6"
   },
   "team": {
     "lead": "namnh240795",
